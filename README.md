@@ -44,7 +44,7 @@ PROFILES DATA
 	"averageRating": 5,
 	"totalReviews": 1,
 	"title": "Freelancer",
-	"profile_picture": "https://media.creativemornings.com/uploads/user/avatar/89900/Profile_picture_square.jpg",
+	"profile_picture": "https://media.creativemornings.com/uploads/user/avatar/49419/Bechtel_Profile_Square.jpg",
 	"address": {
 		"city": "Sunnyvale",
 		"state": "California",
@@ -72,7 +72,7 @@ PROFILES DATA
 	"averageRating": 3.5,
 	"totalReviews": 2,
 	"title": "Freelancer",
-	"profile_picture": "https://media.creativemornings.com/uploads/user/avatar/49419/Bechtel_Profile_Square.jpg",
+	"profile_picture": "https://media.creativemornings.com/uploads/user/avatar/89900/Profile_picture_square.jpg",
 	"address": {
 		"city": "Santa Clara",
 		"state": "California",
@@ -93,4 +93,4 @@ PROFILES DATA
 
 Best of luck and thanks for your intrest in troolr.
 
-© 2018 | Troolr Inc, All Rights Reserved.
+Â© 2018 | Troolr Inc, All Rights Reserved.
