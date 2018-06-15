@@ -93,4 +93,4 @@ PROFILES DATA
 
 Best of luck and thanks for your intrest in troolr.
 
-&copy; 2018 | Troolr Inc, All Rights Reserved.
+© 2018 | Troolr Inc, All Rights Reserved.
