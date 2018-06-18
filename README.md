@@ -10,7 +10,7 @@ The purpose of this test is to determine your technical knowledge using HTML, CS
 
 # Instructions
 
-  - Using HTML, CSS and JS, build out the HTML, CSS and JS using the example mock up above using your favorite framework or library (jQuery, React, etc...).
+  - Using HTML, CSS and JS, build out the results layout using the example mock up above using your favorite framework or library (jQuery, React, etc...).
   - Please **do not build the items in red**.
   - For the item in **Green**, just include text and do not worry about the image. **Keep in mind, the items in green do not have to be clickable**.
   - For listings JSON, reference the dataset below **you only have to render 2 listed in the JSON data**:
@@ -93,4 +93,4 @@ PROFILES DATA
 
 Best of luck and thanks for your interest in troolr.
 
-© 2018 | Troolr Inc, All Rights Reserved.
+Â© 2018 | Troolr Inc, All Rights Reserved.
