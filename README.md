@@ -91,6 +91,6 @@ PROFILES DATA
 }]
 ```
 
-Best of luck and thanks for your intrest in troolr.
+Best of luck and thanks for your interest in troolr.
 
-Â© 2018 | Troolr Inc, All Rights Reserved.
+© 2018 | Troolr Inc, All Rights Reserved.
