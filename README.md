@@ -16,6 +16,7 @@ The purpose of this test is to determine your technical knowledge using HTML, CS
   - For listings JSON, reference the dataset below **you only have to render 2 listed in the JSON data**:
   - Ability to sort by **top rated** and **view count**.
   - Make it **Mobile / Tablet friendly**.
+  - Link to logo: https://troolr.com/assets/graphics/logo-small.png
 
 PROFILES DATA
 ```sh
@@ -93,4 +94,4 @@ PROFILES DATA
 
 Best of luck and thanks for your interest in troolr.
 
-Â© 2018 | Troolr Inc, All Rights Reserved.
+© 2018 | Troolr Inc, All Rights Reserved.
