@@ -2,21 +2,19 @@
 
 # Troolr Web Engineer Technical Test
 
-The purpose of this test is to determine your technical knowledge using HTML, CSS and JS. You are going to build the troolr.com results page, screenshot below and instructions below the image.
-
-[![N|Solid](https://i.imgur.com/0YxH86V.png)](https://troolr.com)
-
+The purpose of this test is to determine your technical knowledge using HTML, CSS and JS. You are going to build a static version of the results page from troolr.com.
 
 
 # Instructions
 
-  - Using HTML, CSS and JS, build out the results layout using the example mock up above using your favorite framework or library (jQuery, React, etc...).
+  - Using HTML, CSS and JS, build out the results layout using the example mock below above using your favorite framework or library (jQuery, React, etc...).
   - Please **do not build the items in red**.
-  - For the item in **Green**, just include text and do not worry about the image. **Keep in mind, the items in green do not have to be clickable**.
-  - For listings JSON, reference the dataset below **you only have to render 2 listed in the JSON data**:
+  - For the item in **Green**, just include text and do not worry about the image.
+  - For listings data, reference the JSON dataset below **you only have to render the 2 documents listed in the dataset**:
   - Ability to sort by **top rated** and **view count**.
   - Make it **Mobile / Tablet friendly**.
   - Link to logo: https://troolr.com/assets/graphics/logo-small.png
+  - **Keep in mind, nothing except for filters are click enabled items **
 
 
 PROFILES DATA
@@ -92,6 +90,7 @@ PROFILES DATA
 	}]
 }]
 ```
+[![N|Solid](https://i.imgur.com/0YxH86V.png)](https://troolr.com)
 
 Best of luck and thanks for your interest in troolr.
 
