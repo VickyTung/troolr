@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>troolr</title>
+    <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="me.css">
+</head>
+<body>
+
+<nav class="navbar tb-small" style="background: white;">
+    <div class="container">
+        <img  src="https://troolr.com/assets/graphics/logo-small.png" style="width: 140px">
+    </div>
+</nav>
+
+<div class="secondary-navbar navbar navbar-default" style="background: #5cb85c;">
+    <div class="container">
+        <div class="row tb-small">
+            <span class="lr-small "><i class="glyphicon glyphicon-th"></i><span class="text-small" style="color: white;">&nbsp;Location</span></span>
+            <span class="lr-small "><i class="fa fa-globe" style="font-size: 20px"></i><span class="text-small" style="color: white;">&nbsp;Categories</span></span>
+        </div>
+
+    </div>
+
+</div>
+
+<div id="controller" class="tb-medium lr-medium">
+    <div id="pageHead" class="tb-small">
+        <span class="text-medium"><span>Newest Contractors in Santa Clara, CA (</span><span id="resultCount"></span><span>&nbsp;Results)</span></span>
+    </div>
+    <div id="filter" class="tb-small">
+        <div class="dropdown">
+            <button class="btn btn-default dropdown-toggle" type="button" id="menu1" data-toggle="dropdown">
+                Sort By (<span id="sortByName">Top Rated</span>)
+                <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu" role="menu" aria-labelledby="menu1">
+                <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:loadData('TOP_RATED');">Top Rated</a></li>
+                <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:loadData('MOST_POPULAR');">Most Popular</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="container-fluid result-panel" id="result-panel">
+        <div class="row">
+            <div class="col-sm-8 col-md-9" id="item-list"></div>
+            <div class="col-sm-4 col-md-3 side-menu">
+                <div class="menu-container">
+                    <div class="side-menu-item">Home</div>
+                    <div class="side-menu-item">Wellness</div>
+                    <div class="side-menu-item">Consulting</div>
+                    <div class="side-menu-item">Automotive</div>
+                    <div class="side-menu-item">Events</div>
+                    <div class="side-menu-item">Tech</div>
+                    <div class="side-menu-item">Pets</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="me.js"></script>
+
+</body>
+</html>
