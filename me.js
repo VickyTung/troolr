@@ -45,7 +45,10 @@ function renderResult(data) {
             html += "<div class=\"item-title\">" + title + "</div>";
             html += " <div class=\"item-name\">" + name + "</div>";
             html += " <div class=\"item-address\">" + address + "</div>";
+            html += "<div class='detailBottom'>";
             html += printStarByRating(rating);
+            html += "<button type=\"button\" class=\"btn btn-primary btn-sm btn-responsive view-profile\">View Profile</button>"
+            html += "</div>"
             html += "</div>";
             html += "</div>";
         }
